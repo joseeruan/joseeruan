@@ -9,6 +9,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com 18 anos de idade
 - 🌱 Atualmente, estou estudando JavaScript.
 - 📚 Curso Análise e Desenvolvimento de Sistemas no IFPE.
 - 👨‍🏫 Participo do programa de formação acelerada da Softex em Back-End.
+- 🎓 Sou formado em Redes de Computadores pela ETEPLAP.
+
 
 ## Estatísticas GitHub 📊
 <div align="center">  
