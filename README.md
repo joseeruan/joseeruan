@@ -26,7 +26,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, com 18 anos de idade
   <a href="https://www.linkedin.com/in/josé-ruan-b17637262" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
-  <a href="mailto:jrpaivadev@gmail.com">
+  <a href="mailto:joseruan7@hotmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23FF6B81?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
