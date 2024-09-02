@@ -3,12 +3,12 @@
 
 # Olá, sou José Ruan! 👋
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas, com 18 anos de idade.
+Sou um estudante de Análise e Desenvolvimento de Sistemas, com 19 anos de idade.
 
 ## Sobre Mim 🚀
-- 🌱 Atualmente, estou estudando JavaScript.
+- 🌱 Atualmente, estou estudando Java e Python.
 - 📚 Curso Análise e Desenvolvimento de Sistemas no IFPE.
-- 👨‍🏫 Participo do programa de formação acelerada da Softex em Back-End.
+- 👨‍🏫 Participei do programa de formação acelerada da Softex em Back-End.
 - 🎓 Sou formado em Redes de Computadores pela ETEPLAP.
 
 
